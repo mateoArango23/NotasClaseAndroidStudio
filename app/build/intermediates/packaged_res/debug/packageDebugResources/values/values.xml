@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">21293850509</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjm3hUiNE-sWip7UZixW_y1FKc7od9aio</string>
+    <string name="google_app_id" translatable="false">1:21293850509:android:b529a22fde3b7a506067c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjm3hUiNE-sWip7UZixW_y1FKc7od9aio</string>
+    <string name="google_storage_bucket" translatable="false">fix23myapp.appspot.com</string>
+    <string name="project_id" translatable="false">fix23myapp</string>
+    <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp"/>
+</resources>
